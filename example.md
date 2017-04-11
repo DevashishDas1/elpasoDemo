@@ -299,4 +299,45 @@ $=\min\_{\beta} \sum\_{i \in \mathcal{I}\_0} \int_0^T \left( {\hat{\delta}\_i(t)
     + Asymptotic properties of the functional regression scheme
     + Real-time detection
 
+---
+
+# Other projects
+
+---
+
+# Active RFID system
+<img src="figures/doc-tag.png" width = 200px height = 300px style="background:none; border:none; box-shadow:none; align=left">
+<img src="figures/rfid-tag-machine.png" width = 200px height = 300px style="background:none; border:none; box-shadow:none; align=left">
+<img src="figures/rfid-pat-tag.png" width = 200px height = 300px style="background:none; border:none; box-shadow:none; align=left">
+
+---
+
+# Electronic dashboards
+
+<img src="figures/yes-board.png" width = 300px>
+
+- Real time location information
+- Massive amounts time-stamp data
+
+<img src="figures/hbs.png" width = 600px height = 100px style="background:none; border:none; box-shadow:none; align=left">
+
+---
+
+# Projects
+
+1. Monitor workload
+2. Contact tracing, infection control
+3. Resuscitation protocol and care of patients left behind
+
+---
+
+# Conclusion
+
+<img src="figures/summ.png" width = 600px style="background:none; border:none; box-shadow:none; align=left">
+
+---
+
+# Thank you
+## Questions?
+
 
