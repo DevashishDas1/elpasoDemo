@@ -35,6 +35,12 @@ padding-bottom: 30px;
 padding-bottom: 30px;
 }
 
+.footer {
+  position: absolute; 
+  left: 35%;
+  bottom: 1em;
+}
+
 
 .reveal li {
   text-align: left;

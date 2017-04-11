@@ -55,7 +55,7 @@
 ---
 
 # Data driven staffing and scheduling
-
+<div id = "footer-left">Sir, M., Nestler, D., Hellmich, T., Das, D., Laughlin, M., Dohlman, M., Pasupathy, K. ``Data-driven Optimization for Multi-disciplinary Staffing in Mayo Clinic Improves Patient Experience'', to appear in Interfaces</div>
 
 ---
 
@@ -127,9 +127,7 @@
 ---
 
 # Statistical learning and statistical monitoring framework for ED operations
-<div class="footer">
-           <p>Copyright ©2014 MyCompany, Inc.</p>
-</div>
+<div id="footer-left">D. Das, Pasupathy, K.S., Storlie, C.B., and Sir, M.Y. ``Functional regression based monitoring of quality of service in hospital emergency departments'',  (under revision) MSOM.</div>
 
 
 ---
