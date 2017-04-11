@@ -127,6 +127,9 @@
 ---
 
 # Statistical learning and statistical monitoring framework for ED operations
+<div class="footer">
+           <p>Copyright ©2014 MyCompany, Inc.</p>
+</div>
 
 
 ---
